@@ -1,4 +1,4 @@
-# Event Planning and Reservation System for Treeat Restaurant
+# Event Planning and Reservation Feature for Treeat Restaurant
 
 
 Webstack portfolio project for ALX Software Engineering (Front-end Specialization) Bootcamp which contains a detailed and responsive website with event planning and reservation functionality built using React.
