@@ -161,7 +161,7 @@ export default function ReservationForm(props) {
         <small>
           <p>
             Please Note: You cannot edit your reservation after submission. Kindly 
-			double-check your answer before submitting your reservation request.
+			double-check your input before submitting your reservation request.
           </p>
         </small>
         <Link className="action-button" to="/confirmation">
