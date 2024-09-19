@@ -6,7 +6,7 @@ export default function Confirmation() {
       <img
         className="confirmation-image"
         src={HeroImage}
-        alt="Treeats Ingredients"
+        alt="Treeats Cuisine Ingredients"
       ></img>
       <section className="reserve-header-text">
         <h1>Your Reservation is Confirmed!</h1>
