@@ -4,7 +4,7 @@ export default function Heading() {
         <header>
             <article className="call-to-action">
                 <section className="hero-text">
-                    <h1>Treats</h1>
+                    <h1>Treats Cuisine</h1>
                     <h2>Old GRA, Port Harcourt</h2>
                     <p className="subsection">Welcome to Treeats Cuisine! Where tradition meets innovation, and every bite tells a story. 
                     Enjoy our delicious local and intercontinental dishes, crafted with love, and served with warmth.</p>
@@ -13,7 +13,7 @@ export default function Heading() {
                 </section>
 
                 <section className="hero-image">
-                    <img src={require('../../../assets/food/food1.wepb')} alt="Treeats cuisine"></img>
+                    <img src={require('../../../assets/food/food1.webp')} alt="Treeats cuisine"></img>
                 </section>
             </article>
       </header>
