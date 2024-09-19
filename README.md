@@ -1,7 +1,7 @@
-# Event Planning and Reservation Feature for Treeat Restaurant
+# Event Reservation Feature for Treeats Cuisine
 
 
-Webstack portfolio project for ALX Software Engineering (Front-end Specialization) Bootcamp which contains a detailed and responsive website with event planning and reservation functionality built using React.
+Webstack portfolio project for ALX Software Engineering (Front-end Specialization) Bootcamp which contains a detailed and responsive website with event reservation functionality built using React.
 
 <h1 align="center"><a href="https://docs.google.com/presentation/d/1YJo8we8E56eq4GfpPA57zqipQWZVEMPkit7mpWdlNeo/edit?usp=sharing"><strong> Project Overview </strong></a></h1>
 
@@ -10,7 +10,7 @@ It facilitates easy event creation, planning, management, and RSVP tracking, aim
 This project addresses the growing need for efficient event management solutions in the hospitality industry, integrating features that promote interaction and seamless communication.
 
 
-![Alt](file:///C:/Users/HP/Downloads/Gab's%20Files/Screenshot%202024-09-12%20030624.png "Treeat Restaurant Logo")
+![Alt](https://github.com/Zeelgabriels/Webstack-Portfolio-Project/blob/main/Treeats-homepage.png "Treeats Cuisine Logo"):
 
 
 <h3 align="center"><a href="webpage link on vercel coming"><strong>« Click to see demo here »</strong></a></h3>
@@ -102,7 +102,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-### Author
+### Authors
 
 - [Gabriel Ifeanyi](https://github.com/Zeelgabriels)
 - [Favour Idele](https://github.com/issyfei)
