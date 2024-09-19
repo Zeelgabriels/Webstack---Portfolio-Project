@@ -17,7 +17,7 @@ export default function Specials() {
                  Dressed with garlic, plantain, and chicken."/>
                 <SpecialCard image={FriedYam}name="Fried Yam" price="₦3,000.00" description="Oiled tomato stew, topped with fresh tomato, pepper, and snails. Seasoned with
                  salt and olive oil."/>
-                <SpecialCard image={Fufu} name="Fufu" price="₦3,500.00" description="Staple made from boiled and pounded cassava flour. Powdered by assorted meats,
+                <SpecialCard image={Fufu} name="Fufu" price="₦3,500.00" description="Staple made from boiled and pounded cassava flour, and grounded melon seeds. Powdered by assorted meats,
                  and fish."/>
             </section>
 
