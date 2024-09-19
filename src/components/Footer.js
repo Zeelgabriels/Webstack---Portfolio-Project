@@ -1,4 +1,4 @@
-Iimport { Link } from "react-router-dom";
+import { Link } from "react-router-dom";
 export default function Footer() {
   return (
     <footer>
@@ -6,7 +6,7 @@ export default function Footer() {
         <li className="img-footer">
           <img
             src={require("../assets/footer-treeatslogo.png")}
-            alt="Treeats logo"
+            alt="Treeats cuisine logo"
           ></img>
         </li>
         <li className="contact">

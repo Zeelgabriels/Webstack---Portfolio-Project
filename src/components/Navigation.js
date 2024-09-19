@@ -9,7 +9,7 @@ export default function Navigation(props) {
         <Link to="/">
           <img
             src={require("../assets/nav-treeatslogo.png")}
-            alt="Treeats logo"
+            alt="Treeats cuisine logo"
             className="nav-image"
           ></img>
         </Link>
