@@ -6,14 +6,14 @@ export default function Heading() {
                 <section className="hero-text">
                     <h1>Treats</h1>
                     <h2>Old GRA, Port Harcourt</h2>
-                    <p className="subsection">Welcome to Treeats! Where tradition meets innovation, and every bite tells a story. 
+                    <p className="subsection">Welcome to Treeats Cuisine! Where tradition meets innovation, and every bite tells a story. 
                     Enjoy our delicious local and intercontinental dishes, crafted with love, and served with warmth.</p>
                     <br></br>
                     <Link className="action-button" to="/reservations">Reserve a table</Link>
                 </section>
 
                 <section className="hero-image">
-                    <img src={require('../../../assets/food/food1.jpg')} alt="Treeats restaurant cuisine"></img>
+                    <img src={require('../../../assets/food/food1.wepb')} alt="Treeats cuisine"></img>
                 </section>
             </article>
       </header>
