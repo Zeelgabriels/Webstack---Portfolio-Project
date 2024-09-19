@@ -5,7 +5,7 @@ export default function Login() {
       <img
         className="header-reserve"
         src={HeroImage}
-        alt="Little Lemon Ingredients"
+        alt="Treeats Ingredients"
       ></img>
       <div className="reserve-header-text">
         <h1>Login</h1>
