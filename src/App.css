@@ -63,7 +63,7 @@ Link:link {
 }
 
 .action-button:hover {
-  background-color: #495e57;
+  background-color: #8a5851;
   color: #eeeeee;
   border-style: solid;
   border-width: 1px;
@@ -111,7 +111,7 @@ Link:link {
 
 /* CALL TO ACTION */
 .call-to-action {
-  background-color: #495e57;
+  background-color: #8a5851;
   color: white;
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -198,7 +198,7 @@ Link:link {
 }
 
 .special-button:hover {
-  background-color: #495e57;
+  background-color: #8a5851;
   color: #eeeeee;
   border-style: solid;
   border-width: 0.1rem;
@@ -294,7 +294,7 @@ Link:link {
 /* FOOTER STYLING */
 footer {
   min-height: 13rem;
-  background-color: #495e57;
+  background-color: #8a5851;
   color: #ffffff;
   padding-bottom: 1rem;
   margin-top: -1.4rem;
@@ -325,7 +325,7 @@ footer > menu {
 
 .footer-links > a:hover,
 .footer-links > Link:hover {
-  background-color: #495e57;
+  background-color: #8a5851;
   text-decoration: underline;
 }
 
@@ -363,7 +363,7 @@ footer > menu {
 }
 
 .reserve-header-text {
-  background-color: #495e57;
+  background-color: #8a5851;
   padding: 0 3rem 0 3rem;
   position: absolute;
   top: 50%;
