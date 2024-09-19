@@ -1,7 +1,7 @@
 import Carousel from './SpecialsCarousel';
-import GreekSalad from '../../../assets/food/greek-salad.webp';
-import Bruschetta from '../../../assets/food/bruschetta.jpeg';
-import LemonDessert from '../../../assets/food/lemon-dessert.webp';
+import JollofRice from '../../../assets/food/jollof-rice.png';
+import FriedYam from '../../../assets/food/fried-yam.jpg';
+import Fufu from '../../../assets/food/fufu.jpg';
 import SpecialCard from './CardInfo/SpecialCard';
 
 export default function Specials() {
@@ -13,12 +13,12 @@ export default function Specials() {
             </article>
 
             <section className="specials-cards">
-                <SpecialCard image={GreekSalad} name="Greek Salad" price="₦2,000.00" description="Refreshing salad, made with tomato, lettuce, feta cheese, and olives.
-                 Dressed with salt, hot pepper, and olive oil."/>
-                <SpecialCard image={Bruschetta}name="Bruschetta" price="₦4,000.00" description="Toasted bread, topped with tomato, prosciutto, and cheese. Seasoned with
+                <SpecialCard image={JollofRice} name="Jollof Rice" price="₦4,000.00" description="Refreshing jollof rice, made with tomatoes, chillies, onions, and spices.
+                 Dressed with garlic, plantain, and chicken."/>
+                <SpecialCard image={FriedYam}name="Fried Yam" price="₦3,000.00" description="Oiled tomato stew, topped with fresh tomato, pepper, and snails. Seasoned with
                  salt and olive oil."/>
-                <SpecialCard image={LemonDessert} name="Lemon Dessert" price="₦7,000.00" description="Fresh baked lemon bread coated in salt and sugar. Powdered in citrus
-                 and lemon zest."/>
+                <SpecialCard image={Fufu} name="Fufu" price="₦3,500.00" description="Staple made from boiled and pounded cassava flour. Powdered by assorted meats,
+                 and fish."/>
             </section>
 
             <section className="specials-carousel">

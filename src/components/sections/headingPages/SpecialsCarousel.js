@@ -1,16 +1,16 @@
 import React from 'react';
 import { Carousel } from 'react-responsive-carousel';
-import GreekSalad from '../../../assets/food/greek-salad.webp';
-import Bruschetta from '../../../assets/food/bruschetta.jpeg';
-import LemonDessert from '../../../assets/food/lemon-dessert.webp';
+import JollofRice from '../../../assets/food/jollof-rice.png';
+import FriedYam from '../../../assets/food/fried-yam.jpg';
+import Fufu from '../../../assets/food/fufu.jpg';
 import SpecialCard from './CardInfo/SpecialCard';
 
 export default function CarouselPage() {
     return (
         <Carousel infiniteLoop={true} autoPlay={true} Interval={5000} showStatus={false}>
-            <SpecialCard image={GreekSalad} name="Greek Salad" price="₦2,000.00" description="Feta Cheese, tomato, lettuce"/>
-            <SpecialCard image={Bruschetta}name="Bruschetta" price="₦4,000.00" description="Bread, mango, green onions"/>
-            <SpecialCard image={LemonDessert} name="Lemon Dessert" price="₦7,000.00" description="Lemon bread, vanilla Icing"/>
+            <SpecialCard image={JollofRice} name="Jollof Rice" price="₦4,000.00" description="Long-grained Rice, plantain, chicken"/>
+            <SpecialCard image={FriedYam}name="Fried Yam" price="₦3,000.00" description="Fried Yam, tomoato sauce, snails"/>
+            <SpecialCard image={Fufu} name="Fufu" price="₦3,500.00" description="Cassava Flour, melon soup, assorted meats"/>
         </Carousel>
     )
 }
