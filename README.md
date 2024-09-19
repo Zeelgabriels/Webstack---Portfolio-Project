@@ -5,7 +5,7 @@ Webstack portfolio project for ALX Software Engineering (Front-end Specializatio
 
 <h1 align="center"><a href="https://docs.google.com/presentation/d/1YJo8we8E56eq4GfpPA57zqipQWZVEMPkit7mpWdlNeo/edit?usp=sharing"><strong> Project Overview </strong></a></h1>
 
-The website and reservation feature for Treeat Restaurant is designed to streamline the process and planning of managing restaurant-hosted events. 
+The website and reservation feature for Treeats Cuisine is designed to streamline the process and planning of managing restaurant-hosted events. 
 It facilitates easy event creation, planning, management, and reservation, aiming to enhance the user experience for both restaurant staff and patrons. 
 This project addresses the growing need for efficient event management solutions in the hospitality industry, integrating features that promote interaction and seamless communication.
 
@@ -13,7 +13,7 @@ This project addresses the growing need for efficient event management solutions
 ![Alt](https://github.com/Zeelgabriels/Webstack-Portfolio-Project/blob/main/Treeats-homepage.png "Treeats Cuisine Logo"):
 
 
-<h3 align="center"><a href="webpage link on vercel coming"><strong>« Click to see demo here »</strong></a></h3>
+<h3 align="center"><a href="https://treeatscuisine.vercel.app/"><strong>« Click to see demo here »</strong></a></h3>
 
 
 ### Tech Stack:
