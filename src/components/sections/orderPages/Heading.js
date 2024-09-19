@@ -1,4 +1,4 @@
-import HeroImage from "../../../assets/food/food4.wepb";
+import HeroImage from "../../../assets/food/food4.webp";
 export default function Heading() {
   return (
     <header className="reserve-table">
