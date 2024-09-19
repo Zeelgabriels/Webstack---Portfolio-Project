@@ -4,7 +4,7 @@ export default function Heading() {
         <header>
             <article className="call-to-action">
                 <section className="hero-text">
-                    <h1>Treats Cuisine</h1>
+                    <h1>Treeats Cuisine</h1>
                     <h2>Old GRA, Port Harcourt</h2>
                     <p className="subsection">Welcome to Treeats Cuisine! Where tradition meets innovation, and every bite tells a story. 
                     Enjoy our delicious local and intercontinental dishes, crafted with love, and served with warmth.</p>
